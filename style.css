@@ -12,7 +12,7 @@
    background-attachment: fixed, fixed, fixed, fixed !important;
    margin:0 auto;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    position: relative;
@@ -26,7 +26,7 @@
 table, ul.art-hmenu
 {
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -82,7 +82,7 @@ ul.art-vmenu a
 .art-postcontent a:hover,
 .art-postcontent a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent p
@@ -103,7 +103,7 @@ ul.art-vmenu a
 .art-postheader, .art-postheader a, .art-postheader a:link, .art-postheader a:visited, .art-postheader a:hover
 {
    font-size: 32px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
@@ -111,21 +111,21 @@ ul.art-vmenu a
 
 .art-postcontent a, .art-postcontent a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #3292CD;
 }
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #4A5878;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: underline;
    color: #3292CD;
 }
@@ -136,7 +136,7 @@ ul.art-vmenu a
    margin-top: 21px;
    margin-bottom: 21px;
    font-size: 32px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h1
@@ -144,13 +144,13 @@ ul.art-vmenu a
    margin-top: 21px;
    margin-bottom: 21px;
    font-size: 32px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:hover, .art-postcontent h1 a:visited, .art-blockcontent h1 a, .art-blockcontent h1 a:link, .art-blockcontent h1 a:hover, .art-blockcontent h1 a:visited 
 {
    font-size: 32px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h2
@@ -159,7 +159,7 @@ ul.art-vmenu a
    margin-top: 19px;
    margin-bottom: 19px;
    font-size: 24px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h2
@@ -167,13 +167,13 @@ ul.art-vmenu a
    margin-top: 19px;
    margin-bottom: 19px;
    font-size: 24px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:hover, .art-postcontent h2 a:visited, .art-blockcontent h2 a, .art-blockcontent h2 a:link, .art-blockcontent h2 a:hover, .art-blockcontent h2 a:visited 
 {
    font-size: 24px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h3
@@ -182,7 +182,7 @@ ul.art-vmenu a
    margin-top: 19px;
    margin-bottom: 19px;
    font-size: 19px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h3
@@ -190,13 +190,13 @@ ul.art-vmenu a
    margin-top: 19px;
    margin-bottom: 19px;
    font-size: 19px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:hover, .art-postcontent h3 a:visited, .art-blockcontent h3 a, .art-blockcontent h3 a:link, .art-blockcontent h3 a:hover, .art-blockcontent h3 a:visited 
 {
    font-size: 19px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h4
@@ -205,7 +205,7 @@ ul.art-vmenu a
    margin-top: 20px;
    margin-bottom: 20px;
    font-size: 16px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h4
@@ -213,13 +213,13 @@ ul.art-vmenu a
    margin-top: 20px;
    margin-bottom: 20px;
    font-size: 16px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:hover, .art-postcontent h4 a:visited, .art-blockcontent h4 a, .art-blockcontent h4 a:link, .art-blockcontent h4 a:hover, .art-blockcontent h4 a:visited 
 {
    font-size: 16px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h5
@@ -228,7 +228,7 @@ ul.art-vmenu a
    margin-top: 26px;
    margin-bottom: 26px;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h5
@@ -236,13 +236,13 @@ ul.art-vmenu a
    margin-top: 26px;
    margin-bottom: 26px;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:hover, .art-postcontent h5 a:visited, .art-blockcontent h5 a, .art-blockcontent h5 a:link, .art-blockcontent h5 a:hover, .art-blockcontent h5 a:visited 
 {
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h6
@@ -251,7 +251,7 @@ ul.art-vmenu a
    margin-top: 35px;
    margin-bottom: 35px;
    font-size: 11px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent h6
@@ -259,13 +259,13 @@ ul.art-vmenu a
    margin-top: 35px;
    margin-bottom: 35px;
    font-size: 11px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:hover, .art-postcontent h6 a:visited, .art-blockcontent h6 a, .art-blockcontent h6 a:link, .art-blockcontent h6 a:hover, .art-blockcontent h6 a:visited 
 {
    font-size: 11px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-hmenu a, .art-vmenu a, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
@@ -446,7 +446,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
 .art-headline a:hover
 {
 font-size: 22px;
-font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+font-family: Roboto, sans-serif;
 font-weight: normal;
 font-style: normal;
 text-decoration: none;
@@ -480,7 +480,7 @@ text-decoration: none;
 .art-slogan a:hover
 {
 font-size: 14px;
-font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+font-family: Roboto, sans-serif;
 text-decoration: none;
   padding: 0;
   margin: 0;
@@ -669,7 +669,7 @@ ul.art-hmenu>li>a
 .art-hmenu>li>a:hover
 {
    font-size: 14px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
@@ -766,7 +766,7 @@ ul.art-hmenu li li ul>li:last-child
    line-height: 23px;
    color: #1B2727;
    font-size: 12px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    margin:0;
 }
@@ -793,7 +793,7 @@ ul.art-hmenu li li ul>li:last-child
    line-height: 23px;
    color: #1B2727;
    font-size: 12px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    margin:0;
 }
@@ -996,7 +996,7 @@ div.art-block img
 {
    color: #000000;
    font-size: 14px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    margin: 0 10px 0 5px;
 }
 
@@ -1006,7 +1006,7 @@ div.art-block img
    margin:0 auto;
    color: #303A4F;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 .art-blockcontent table,
 .art-blockcontent li, 
@@ -1017,7 +1017,7 @@ div.art-block img
 {
    color: #303A4F;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-blockcontent p
@@ -1028,21 +1028,21 @@ div.art-block img
 .art-blockcontent a, .art-blockcontent a:link
 {
    color: #3292CD;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: underline;
 }
 
 .art-blockcontent a:visited, .art-blockcontent a.visited
 {
    color: #A6B1C9;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
 }
 
 .art-blockcontent a:hover, .art-blockcontent a.hover
 {
    color: #09BDDC;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
 }
 .art-block ul>li:before
@@ -1066,7 +1066,7 @@ div.art-block img
 .art-block li
 {
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    line-height: 125%;
    color: #4F5F82;
 }
@@ -1097,7 +1097,7 @@ button.art-button
 {
    text-decoration: none;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    position:relative;
@@ -1132,7 +1132,7 @@ input, select, textarea, a.art-search-button span
 {
    vertical-align: middle;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1200,7 +1200,7 @@ input[type="text"], input[type="password"], input[type="email"], input[type="url
    padding: 8px 0;
    color: #184663 !important;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-shadow: none;
@@ -1214,7 +1214,7 @@ input.art-error, textarea.art-error
 input.art-error, textarea.art-error {
    color: #184663 !important;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1231,7 +1231,7 @@ form.art-search input[type="text"]
    box-sizing: border-box;
    color: #184663 !important;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1278,7 +1278,7 @@ form.art-search input[type="submit"], input.art-search-button, a.art-search-butt
    padding:0 6px;
    color: #38435C !important;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    cursor: pointer;
@@ -1300,7 +1300,7 @@ a.art-search-button:hover, a.art-search-button.hover
 {
    text-decoration: none;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1325,7 +1325,7 @@ label.art-checkbox
 {
    cursor: pointer;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    line-height: 16px;
@@ -1379,7 +1379,7 @@ label.art-radiobutton
 {
    cursor: pointer;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: normal;
    line-height: 12px;
@@ -1462,7 +1462,7 @@ label.art-radiobutton.hovered:before
 {
    padding:10px 0;
    color: #303A4F;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-comment
@@ -1478,7 +1478,7 @@ label.art-radiobutton.hovered:before
 .art-comment-header
 {
    color: #21302F;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    line-height: 100%;
 }
 
@@ -1489,25 +1489,25 @@ label.art-radiobutton.hovered:before
 .art-comment-header a:hover,
 .art-comment-header a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    line-height: 100%;
 }
 
 .art-comment-header a, .art-comment-header a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #729D9B;
 }
 
 .art-comment-header a:visited, .art-comment-header a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #729D9B;
 }
 
 .art-comment-header a:hover,  .art-comment-header a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #729D9B;
 }
 
@@ -1518,24 +1518,24 @@ label.art-radiobutton.hovered:before
 .art-comment-content a:hover,
 .art-comment-content a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-comment-content a, .art-comment-content a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #2977A8;
 }
 
 .art-comment-content a:visited, .art-comment-content a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #404C68;
 }
 
 .art-comment-content a:hover,  .art-comment-content a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #2977A8;
 }
 
@@ -1590,7 +1590,7 @@ label.art-radiobutton.hovered:before
 .art-pager .active
 {
    line-height: normal;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #1B2727
 ;
@@ -1792,7 +1792,7 @@ pre
    color: #194967;
    margin: 5px 0;
    font-size: 20px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postheader a, 
@@ -1803,12 +1803,12 @@ pre
 .art-postheader a.hovered
 {
    font-size: 20px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-postheader a, .art-postheader a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    text-align: left;
    color: #2D83B9;
@@ -1816,7 +1816,7 @@ pre
 
 .art-postheader a:visited, .art-postheader a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    text-align: left;
    color: #7181A8;
@@ -1824,7 +1824,7 @@ pre
 
 .art-postheader a:hover,  .art-postheader a.hovered
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    text-align: left;
    color: #3292CD;
@@ -1836,7 +1836,7 @@ pre
 .art-postheadericons a:visited,
 .art-postheadericons a:hover
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #303A4F;
 }
 
@@ -1847,14 +1847,14 @@ pre
 
 .art-postheadericons a, .art-postheadericons a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #496968;
 }
 
 .art-postheadericons a:visited, .art-postheadericons a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-decoration: none;
@@ -1863,7 +1863,7 @@ pre
 
 .art-postheadericons a:hover, .art-postheadericons a.hover
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-decoration: underline;
@@ -1941,7 +1941,7 @@ pre
 .art-postcontent li, .art-post li, .art-textblock li
 {
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    line-height: 200%;
    color: #101219;
    margin: 10px 0 0 26px;
@@ -1996,7 +1996,7 @@ blockquote
    padding:2px 2px 2px 26px;
    margin:10px 10px 10px 50px;
    color: #0C0E13;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-align: left;
@@ -2010,7 +2010,7 @@ blockquote a:visited, .art-postcontent blockquote a:visited, .art-blockcontent b
 blockquote a:hover, .art-postcontent blockquote a:hover, .art-blockcontent blockquote a:hover, .art-footer blockquote a:hover
 {
    color: #0C0E13;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-align: left;
@@ -2032,7 +2032,7 @@ blockquote p,
 .art-postfootericons a:visited,
 .art-postfootericons a:hover
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #303A4F;
 }
 
@@ -2043,21 +2043,21 @@ blockquote p,
 
 .art-postfootericons a, .art-postfootericons a:link
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #236690;
 }
 
 .art-postfootericons a:visited, .art-postfootericons a.visited
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #496968;
 }
 
 .art-postfootericons a:hover, .art-postfootericons a.hover
 {
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
    color: #172121;
 }
@@ -2070,7 +2070,7 @@ blockquote p,
    position: relative;
    color: #B6BFD2;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-align: center;
    padding: 0;
 }
@@ -2085,7 +2085,7 @@ blockquote p,
 {
    color: #B6BFD2;
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer p 
@@ -2098,58 +2098,58 @@ blockquote p,
 .art-footer a:link
 {
    color: #000000;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: underline;
 }
 
 .art-footer a:visited
 {
    color: #9DA8C3;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: none;
 }
 
 .art-footer a:hover
 {
    color: #09BDDC;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    text-decoration: underline;
 }
 
 .art-footer h1
 {
    color: #7BA3A1;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer h2
 {
    color: #96B6B4;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer h3
 {
    color: #469DD2;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer h4
 {
    color: #A0ABC5;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer h5
 {
    color: #A0ABC5;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer h6
 {
    color: #A0ABC5;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
 }
 
 .art-footer img
@@ -2306,7 +2306,7 @@ blockquote p,
 .art-footer li
 {
    font-size: 13px;
-   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-family: Roboto, sans-serif;
    color: #DAEBF6;
 }
 
@@ -2316,7 +2316,7 @@ blockquote p,
 .art-page-footer a:visited,
 .art-page-footer a:hover
 {
-   font-family: Arial;
+   font-family: Roboto, sans-serif;
    font-size: 10px;
    letter-spacing: normal;
    word-spacing: normal;
